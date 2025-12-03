@@ -21,7 +21,7 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-           <p> I am Currently Pursuinng 2nd Year of Computer Enginering branch. </p>
+           <p> I am Currently Pursuinng  Computer Enginering  </p>
             I build modern, high-quality web interfaces that feel smooth and look stunning. Passionate about front-end development, I focus on clarity, speed, and user experience.
           </p>
 
