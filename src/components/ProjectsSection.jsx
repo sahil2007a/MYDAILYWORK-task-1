@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "College Connect",
     description: "Your all-in-one smart hub for instant campus updates, events, resources, and everything you need as a student.",
-    image: "public/projects/project1.jpeg",
+    image: "/projects/project1.jpeg",
     tags: ["React", "TailwindCSS", "Supabase"],
     demoUrl: "https://unique-dango-5b192f.netlify.app",
     githubUrl: "https://github.com/sahil2007a",
@@ -15,7 +15,7 @@ const projects = [
     title: "EcoVidya Learning Platform",
     description:
       "a smart, interactive, and user-friendly education platform that provides students with notes, quizzes, and a seamless learning experience in one place.",
-    image: "public/projects/project2.jpeg",
+    image: "/projects/project2.jpeg",
     tags: ["JavaScript", "react", "Next.js"],
     demoUrl: "https://shimmering-jelly-c0b3bd.netlify.app/",
     githubUrl: "https://github.com/sahil2007a",
@@ -25,7 +25,7 @@ const projects = [
     title: "MessInfoHub Platform",
     description:
       "A real-time mess update system built to simplify student life, one meal at a time.",
-    image: "public/projects/project3.jpeg",
+    image: "/projects/project3.jpeg",
     tags: ["React", "Node.js", "Javacript"],
     demoUrl: "#",
     githubUrl: "https://github.com/sahil2007a",
